@@ -1,0 +1,14 @@
+#container {
+    display: flex;
+    flex-direction: row;
+}
+  
+#change-due {
+    border: 1px solid black;
+    padding: 5px;
+}
+  
+#register {
+    border: 1px solid black;
+    padding: 5px;
+}
